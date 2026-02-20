@@ -1,7 +1,11 @@
 import axios from 'axios'
 
+const backendUrl = process.env.NODE_ENV === 'production'
+  ? 'https://savra-insights-sigma.vercel.app/api'
+  : '/api';
+
 const api = axios.create({
-    baseURL: '/api'  
+  baseURL: backendUrl
 })
 
 const buildQuery = (params) => {
