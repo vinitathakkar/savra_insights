@@ -7,11 +7,15 @@ It replaces spreadsheets with clear insights, real-time filters, and visual tren
 🚀 LIVE PROJECT
 🔗 FRONTEND (VERCEL)
 
-https://your-vercel-link.vercel.app
+https://savra-insights-bppf-n1havr6v4-vinitathakkars-projects.vercel.app
+
+🔗 BACKEND (VERCEL)
+
+https://savra-insights-sigma.vercel.app/
 
 🔗 GITHUB REPOSITORY
 
-https://github.com/your-username/savra-dashboard
+https://github.com/vinitathakkar/savra-dashboard
 
 ✨ WHAT SAVRA OFFERS
 📊 DASHBOARD OVERVIEW
