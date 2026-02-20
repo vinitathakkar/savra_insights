@@ -14,8 +14,7 @@ https://savra-insights-bppf-n1havr6v4-vinitathakkars-projects.vercel.app
 https://savra-insights-sigma.vercel.app/
 
 🔗 GITHUB REPOSITORY
-
-https://github.com/vinitathakkar/savra-dashboard
+https://github.com/vinitathakkar/savra_insights.git
 
 ✨ WHAT SAVRA OFFERS
 📊 DASHBOARD OVERVIEW
