@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://savra-insights-sigma.vercel.app/',
+        target: 'https://savra-insights-sigma.vercel.app',
         changeOrigin: true,
       }
     }
