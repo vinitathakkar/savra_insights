@@ -7,7 +7,7 @@ It replaces spreadsheets with clear insights, real-time filters, and visual tren
 🚀 LIVE PROJECT
 🔗 FRONTEND (VERCEL)
 
-https://savra-insights-bppf-n1havr6v4-vinitathakkars-projects.vercel.app
+https://savra-insights-bppf.vercel.app/
 
 🔗 BACKEND (VERCEL)
 
